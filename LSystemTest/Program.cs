@@ -22,5 +22,5 @@ namespace LSystemTest {
 
 //blesk: 20 55 4F F=F-F+F[FF-]
 //hrouda: 20 55 2F F=F-[FF+F-]F+F[FF-]+
-//strom: 10 22 1FF-[2-F+F-F]+[2+F-F+F]
+//strom: 10 22 F F=1FF-[2-F+F-F]+[2+F-F+F]
 //vlak: 20 90 0-F F=F[+HG]F G=H[HH-G]
